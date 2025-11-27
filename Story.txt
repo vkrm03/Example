@@ -1,1 +1,1 @@
-This is the 2nd commit and version 0.2.
+This is the 3rd commit and version 0.3.
